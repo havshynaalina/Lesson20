@@ -5,3 +5,18 @@ h1, h2, p {
 body {
     background-color: #eee1b2;
 }
+
+.btn-primary {
+    color: #eee1b2;
+    background-color: rgb(41, 37, 117);
+}
+
+.btn-secondary {
+    color: rgb(229, 229, 229);
+    background-color: rgb(85, 33, 33);
+}
+
+.btn-danger {
+    color: #13050d;
+    background-color: rgb(49, 87, 63);
+}
