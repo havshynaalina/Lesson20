@@ -1,11 +1,7 @@
-h1 {
-    color: rgb(169, 96, 237);
-}
-
-h2 {
-    color: rgb(37, 141, 141);
+h1, h2, p {
+    color: rgb(41, 37, 117);
 }
 
 body {
-    background-color: #ddf34c;
+    background-color: #eee1b2;
 }
